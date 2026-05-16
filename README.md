@@ -7,6 +7,7 @@ A collection of my solved LeetCode problems.
 | # | Title | Difficulty | Solution |
 |---|-------|------------|----------|
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [Swift](./0027-remove-element/) |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Swift](./0070-climbing-stairs/) |
 
 ## Structure
 

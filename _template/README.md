@@ -1,4 +1,4 @@
-# <number>. <Problem Title>
+# <number> . <Problem Title>
 
 **Difficulty:** <Easy | Medium | Hard>
 
