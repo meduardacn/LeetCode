@@ -8,6 +8,7 @@ A collection of my solved LeetCode problems.
 |---|-------|------------|----------|
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | ![Easy](https://img.shields.io/badge/Easy-blue) | [![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white)](./0027-remove-element/) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | ![Easy](https://img.shields.io/badge/Easy-blue) | [![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white)](./0070-climbing-stairs/) |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ![Medium](https://img.shields.io/badge/Medium-orange) | [![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white)](./0098-validate-binary-search-tree/) |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | ![Medium](https://img.shields.io/badge/Medium-orange) | [![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white)](./0300-longest-increasing-subsequence/) |
 
 ## Structure
