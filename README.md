@@ -15,6 +15,7 @@ A collection of my solved LeetCode problems.
 | 631 | [Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula/) | ![Hard](https://img.shields.io/badge/Hard-red) | [![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white)](./0631-design-excel-sum-formula/) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | ![Easy](https://img.shields.io/badge/Easy-blue) | [![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white)](./0704-binary-search/) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | ![Medium](https://img.shields.io/badge/Medium-orange) | [![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white)](./0875-koko-eating-bananas/) |
+| 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | ![Hard](https://img.shields.io/badge/Hard-red) | [![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white)](./1235-maximum-profit-in-job-scheduling/) |
 
 ## Structure
 
