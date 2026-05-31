@@ -10,7 +10,6 @@ class Solution {
         } else { // less than
             return recurBS(nums, target, low, mid-1)
         }
-
     }
 
     func search(_ nums: [Int], _ target: Int) -> Int {
